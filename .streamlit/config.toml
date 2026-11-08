@@ -1,0 +1,6 @@
+[server]
+port = 8501
+maxUploadSize = 10
+
+[theme]
+primaryColor = "#2a7ab0"

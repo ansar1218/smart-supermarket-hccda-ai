@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+scikit-learn==1.9.1
+numpy
+pandas
+pillow
+joblib
+streamlit>=1.40
+matplotlib
+huaweicloudsdkcore
+huaweicloudsdkocr
